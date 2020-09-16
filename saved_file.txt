@@ -1,0 +1,1 @@
+{"name":"Dylan","word":"earshot","hidden_word":["e","a","_","_","_","_","_"],"used_letters":["a","e"],"lives":7}

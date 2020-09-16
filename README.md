@@ -1,0 +1,1 @@
+For this project, I will be creating a hangman game where one player plays against a computer. It will implement file I/O and serialization. You will be able to svae the game and reload it.
